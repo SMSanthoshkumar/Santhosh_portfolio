@@ -1,12 +1,20 @@
-# React + Vite
+Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my developer portfolio built using React, Tailwind CSS and Spline 3D
 
-Currently, two official plugins are available:
+Technologies Used
+- React.js
+- Tailwind CSS
+- Vite
+- Spline 3D
+- Boxicons
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+About Me
+I'm a B.Tech IT student with a passion for building full-stack web applications and solving real-world problems using modern technologies like React, Spring Boot, Figma and MySQL
 
-## Expanding the ESLint configuration
+Contact
+- Email: smsanthoshkumar2910@gmail.com  
+- LinkedIn: https://in.linkedin.com/in/smsanthoshkumar07
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Screenshot 2025-07-06 104016](https://github.com/user-attachments/assets/8ff3ca63-8c6b-4a7e-b52e-19ded4236410)
+![Screenshot 2025-07-06 103952](https://github.com/user-attachments/assets/ed702ce1-bc27-4152-940d-6c1a06c61b53)
